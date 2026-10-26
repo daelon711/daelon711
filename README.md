@@ -1,10 +1,14 @@
 ## Hey!
 
-I'm a cybersecurity student. I'd like to explore cloud tech ☁️</br>
+I'm a cybersecurity student. I'd like to explore cloud tech ☁️
+
 
 ![The Office GIF](giphy.gif)
 
 
+- Contact:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/elene-kapanadze/)
 [![Email Badge](https://img.shields.io/badge/-gmail-000000?style=for-the-badge&logo=gmail)](mailto:e.kapanadze07@gmail.com)
 
 - 🌱 Languages and Tools: 
