@@ -3,23 +3,23 @@
 I'm a cybersecurity student and right now, I'd like to explore cloud tech ☁️
 
 
-<img src="pam.gif" width="375" style="border-radius: 50%;">
+<img src="pam.gif" width="275">
 
 
 - Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/elene-kapanadze/)
-[![Email Badge](https://img.shields.io/badge/-gmail-000000?style=for-the-badge&logo=gmail)](mailto:e.kapanadze07@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:e.kapanadze07@gmail.com)
 
 - 🌱 Languages and Tools: 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![php](https://img.shields.io/badge/-php-000000?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-![linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux)
-![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
-![proxmox](https://img.shields.io/badge/-proxmox-000000?style=for-the-badge&logo=proxmox)
-![cisco](https://img.shields.io/badge/-cisco-000000?style=for-the-badge&logo=cisco)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox)
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco)
 
 
 <!--
