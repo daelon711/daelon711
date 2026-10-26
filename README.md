@@ -6,12 +6,12 @@ I'm a cybersecurity student and right now, I'd like to explore cloud tech ☁️
 <img src="pam.gif" width="275">
 
 
-- Contact:
+📫 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/elene-kapanadze/)
 [![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:e.kapanadze07@gmail.com)
 
-- 🌱 Languages and Tools: 
+🌱 Languages and Tools: 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
