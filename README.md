@@ -3,7 +3,7 @@
 I'm a cybersecurity student and right now, I'd like to explore cloud tech ☁️
 
 
-<img src="pam.gfd" width="375">
+<img src="pam.gif" width="375">
 
 
 - Contact:
